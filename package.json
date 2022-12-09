@@ -1,0 +1,22 @@
+{
+  "name": "sqlite-x",
+  "version": "1.0.0",
+  "description": "Modern SQLite for NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^5.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "sqlite",
+    "sqlite3",
+    "sql"
+  ],
+  "author": "codingjlu",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
+}
